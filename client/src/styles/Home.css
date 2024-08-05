@@ -1,0 +1,17 @@
+.navbar {
+    margin-bottom: 0;
+    
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #343a40 !important;
+}
+
+.btn-success {
+    font-size: 1.2em;
+    padding: 10px 20px;
+}

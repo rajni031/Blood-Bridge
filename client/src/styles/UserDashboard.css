@@ -1,0 +1,29 @@
+/* client/src/styles/UserDashboard.css */
+
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-section, .donors-section {
+    margin-bottom: 30px;
+  }
+  
+  .form-section h3, .donors-section h3 {
+    margin-bottom: 10px;
+  }
+  
+  .donors-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .donors-section ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
